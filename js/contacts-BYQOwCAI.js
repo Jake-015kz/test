@@ -1,0 +1,1 @@
+import"./styles-BxsvUXcX.js";console.log('Страница "Контакты" загружена');document.addEventListener("DOMContentLoaded",function(){const e=document.querySelector(".form");e&&e.addEventListener("submit",function(t){t.preventDefault(),alert("Сообщение отправлено! (это демо)"),e.reset()})});
